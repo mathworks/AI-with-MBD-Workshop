@@ -1,0 +1,14 @@
+slprj/
+*.autosave
+*.slxc
+*.mex*
+*_rtw
+*.exe
+codegen/
+SIL/
+*.dmr
+*.html
+*.bin
+*.r2023a
+*.txt
+derived/
