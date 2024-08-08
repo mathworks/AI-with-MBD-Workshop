@@ -1,19 +1,32 @@
-## Agenda
+## AI with Model-Based Design Hands-On Workshop
 
-In this hands-on workshop, you will learn how to develop AI applications using MATLAB and Simulink. Our goal is to introduce you to tools and approaches for developing AI models with Model-Based Design.
-The workshop comprises three main chapters with hands-on exercises for each topic:
-1.    Design and train a feedforward neural network and integrate it into a Simulink simulation
-2.    Import a model from TensorFlow and integrate it into Simulink
-3.    Compress the LSTM model with projection, generate C/C++ code from Simulink with Embedded Coder, and profile performance
+Welcome to our **AI with Model-Based Design** workshop! This hands-on experience is designed to empower you with the knowledge and skills to develop AI models using MATLAB and Simulink. Whether you're a beginner or an experienced user, this workshop will introduce you to essential tools and methodologies for AI development within Model-Based Design.
 
-The example data set we will use contains data for estimating the state of charge (SOC) of a battery based on temperature, voltage, and current. The workshop is designed to be delivered on MATLAB Online.
+Throughout this workshop, you will engage in three comprehensive chapters, each featuring hands-on exercises to solidify your understanding:
 
-MathWorks instructors and teaching assistants (TAs) will be available throughout the session to guide you. If the event is being held on-site, please bring your laptop and install the Google Chrome browser beforehand.
+1. **Design and Train a Neural Network**: Learn how to create a feedforward neural network and integrate it into a Simulink simulation.
+2. **Integrate TensorFlow Models**: Discover how to import a model from TensorFlow and seamlessly integrate it into Simulink.
+3. **Model Compression and Code Generation**: Compress an LSTM model using projection, generate C/C++ code from Simulink with Embedded Coder, and profile its performance.
 
-## Relevant products
+
+## Setup Instructions
+
+1. **MATLAB Online**: This workshop is designed to be delivered on MATLAB Online, ensuring you have the necessary tools without the need for local installations.
+2. **On-Site Participants**: If attending an on-site session, please bring your laptop and ensure you have the Google Chrome browser installed.
+
+
+## Call to Action
+
+Embark on your AI development journey with MATLAB and Simulink today! Register for our hands-on workshop with your local sales representative and take the first step towards mastering AI applications with Model-Based Design.
+
+
+## MathWorks products
 * [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
 * [Simulink&reg;](https://www.mathworks.com/products/simulink.html)
 * [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
 * [Embedded Coder&reg;](https://www.mathworks.com/products/embedded-coder.html)
+
+3rd Party Products:
+* [TensorFlow&trade;](https://www.tensorflow.org/)
 
 Copyright 2024 The MathWorks, Inc.
