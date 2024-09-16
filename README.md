@@ -1,5 +1,7 @@
 ## AI with Model-Based Design Hands-On Workshop
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/AI-with-MBD-Workshop​)
+
 Welcome to our **AI with Model-Based Design** workshop! This hands-on experience is designed to empower you with the knowledge and skills to develop AI models using MATLAB and Simulink. Whether you're a beginner or an experienced user, this workshop will introduce you to essential tools and methodologies for AI development within Model-Based Design.
 
 Throughout this workshop, you will engage in three comprehensive chapters, each featuring hands-on exercises to solidify your understanding:
