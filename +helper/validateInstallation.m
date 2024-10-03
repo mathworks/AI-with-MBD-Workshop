@@ -67,12 +67,12 @@ end
 
 function [ versionValidity, versionFailureMessage ] = confirmMatlabVersion( )
 release = matlabRelease();
-if( "R2024a" == release.Release )
+if( "R2024b" == release.Release )
     versionValidity = true;
     versionFailureMessage = "";
 else
     versionValidity = false;
-    versionFailureMessage = "Version R2024a is required.";
+    versionFailureMessage = "Version R2024b is required.";
 end
 return
 end
